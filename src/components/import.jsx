@@ -1,0 +1,13 @@
+export { default as img1 } from '../assets/img1.jpg'
+export { default as img2 } from '../assets/img2.jpg'
+export { default as img3 } from '../assets/img3.jpg'
+export { default as img4 } from '../assets/img4.jpg'
+export { default as img5 } from '../assets/img5.jpg'
+export { default as img6 } from '../assets/img6.jpg'
+export { default as profile } from '../assets/profile2.jpg'
+
+export { default as Home } from './Home'
+export { default as About } from './About'
+export { default as Contact } from './Contact'
+export { default as Navbar } from './Navbar'
+export { default as Work } from './Work'
